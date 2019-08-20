@@ -1,0 +1,127 @@
+.login-help{
+  padding: 25px;
+}
+.dont{
+  font-size: 15px;
+  font-family: arial;
+  color: #757575;
+
+}
+.btn-content{
+
+}
+.login{
+  width: 100%;
+
+}
+.forgot{
+  padding: 8px 4px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+.center{
+  text-align: center;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+
+}
+
+/*.psw{
+  font-size: 13px;
+  padding: 16px;
+}*/
+.signup{
+  width: 291.75px;
+  margin-top: 20px;
+  display: inline-block;
+  padding: 50px;
+  border: 1px solid #e9ecef;
+  border-radius: 2px;
+  box-shadow: none;
+
+}
+.input-detail{
+  padding-top: 4px;
+
+}
+.input-field{
+  padding-top: 10px;
+  border-radius: 5px;
+}
+.ud-content{
+  padding:16px;
+
+}
+.ud-text{
+  padding: 16px;
+  font-family: arial;
+  font-size: 25px;
+  margin: 0;
+}
+.login-wrapper{
+  margin-top: 0px 485px;
+  padding-top: 48.9px;
+  padding-bottom: 200px;
+}
+.login_form{
+	width: 25%;
+	margin: 15px auto;
+  font-family: arial;
+}
+.email{
+	padding: 16px;
+	color: rgba(0,0,0,0.87);
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 32px;
+	letter-spacing: normal;
+}
+.img{
+  padding-bottom: 15px;
+}
+.userdata{
+  border: 1px solid #e9ecef;
+  border-radius: 2px;
+  padding: 50px;  
+}
+
+a{
+  text-decoration: none;
+}
+.forgot-psw{
+  padding: 16px;
+  font-size: 13px;
+  color: #1976D2;
+  font-family: arial;
+
+}
+input[type=email], input[type=password] {
+  width: 100%;
+  padding: 10px 15px;
+  margin: 0 auto;
+  display: block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+
+
+}
+
+button {
+  background-color: rgb(55,115,90);
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 35%
+
+}
+
+button:hover {
+  opacity: 0.9;
+}
