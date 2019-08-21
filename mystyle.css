@@ -1,0 +1,107 @@
+.login-help {
+  padding: 25px;
+}
+.dont {
+  color: #757575;
+  font-size: 15px;
+  font-family: arial;
+}
+.login {
+  width: 100%;
+}
+.forgot {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 8px 4px;
+}
+.center {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.signup {
+  border: 1px solid #e9ecef;
+  border-radius: 2px;
+  box-shadow: none;
+  display: inline-block;
+  margin-top: 20px;
+  padding: 50px;
+  width: 291.75px;
+}
+.input-detail {
+  padding-top: 4px;
+}
+.input-field {
+  border-radius: 5px;
+  padding-top: 10px;
+}
+.ud-content {
+  padding:16px;
+}
+.ud-text {
+   font-family: arial;
+  font-size: 25px;
+  margin: 0;
+  padding: 16px;
+}
+.login-wrapper {
+  margin-top: 0px 485px;
+  padding-top: 48.9px;
+  padding-bottom: 200px;
+}
+.login-form {
+	font-family: arial;
+  margin: 15px auto;
+  width: 25%;
+}
+.email {
+	color: rgba(0,0,0,0.87);
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 32px;
+  padding: 16px;	
+}
+.img {
+  padding-bottom: 15px;
+}
+.userdata {
+  border: 1px solid #e9ecef;
+  border-radius: 2px;
+  padding: 50px;  
+}
+
+a {
+  text-decoration: none;
+}
+.forgot-psw {
+  color: #1976D2;
+  font-family: arial;
+  font-size: 13px;
+  padding: 16px;
+}
+input[type=email], 
+input[type=password] {
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  display: block;
+  margin: 0 auto;
+  padding: 10px 15px;
+  width: 100%;
+}
+
+button {
+  background-color: rgb(55,115,90);
+  border: none;
+  color: white;
+  cursor: pointer;
+  margin: 8px 0;
+  padding: 14px 20px;
+  width: 35%
+}
+button:hover {
+  opacity: 0.9;
+}
